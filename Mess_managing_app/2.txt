@@ -1,0 +1,13 @@
+ruti,10,bhat,20,bhat,30,
+ruti,40,bhat,50,bhat,60,
+khichuri,70,polao,80,biriyani,90,
+ruti,100,rice,110,rice,120,
+ruti,130,rice,140,rice,150,
+ruti,160,rice,170,rice,180,
+paratha,190,polao,200,kacchi,210,
+5,0,0,0,0
+rafat,0,0,0,0
+Raihan,0,0,0,0
+Nafees,0,0,0,0
+Ruwad,0,0,0,350
+robin,0,0,0,0
